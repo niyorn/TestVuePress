@@ -1,0 +1,22 @@
+{
+  "name": "TestVuePress",
+  "version": "1.0.0",
+  "description": "This project serve as an educational project where I will try out VuePress. In this project I will higlight some of my created feature.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niyorn/TestVuePress.git"
+  },
+  "author": "Chanakarn Niyornram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niyorn/TestVuePress/issues"
+  },
+  "homepage": "https://github.com/niyorn/TestVuePress#readme",
+  "dependencies": {
+    "vuepress": "^1.1.0"
+  }
+}
